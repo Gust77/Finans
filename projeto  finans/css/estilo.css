@@ -1,0 +1,76 @@
+/**********
+CABEÇALHO*/
+.logo{
+    width: 142px;
+}
+
+.nav-link{
+    color: #fff;
+    border-bottom: 3px solid transparent;
+}
+
+.nav-link:hover{
+    color: bisque;
+    border-bottom: 3px solid greenyellow;
+}
+
+.button{
+    color: #000;
+    background: #fff;
+}
+
+.button:hover{
+    color: dimgray;
+    background: #CEF6CE;
+}
+
+/*****
+HOME*/
+
+.home{
+    background: #BCF5A9;
+    color: #151515;
+}
+
+/**********
+SAIBA MAIS*/
+
+.caixa{
+    padding: 60px 0px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+i{
+    font-size: 25px;
+}
+.icon{
+    text-align: center;
+    background: #FAFAFA;
+    padding: 2px;
+    padding-top: 6px;
+    text-transform: uppercase;
+    margin: 0px 10px;
+    font-size: 13px;
+}
+
+.icon:hover{
+    box-shadow: 10px 10px 2px black;
+    background: #f4f4f4;
+}
+
+.icon-1:hover{
+    color: #40FF00;
+}
+
+
+/*******
+FOOTER*/
+
+footer p a{
+    margin: 5px 15px;
+    text-decoration: none;
+}
+
+footer i{
+    font-size: 15px;
+}
